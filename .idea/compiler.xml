@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="1.8">
+      <module name="FrenzyAdmin" target="1.8" />
+      <module name="FrenzyAdmin.main" target="1.8" />
+      <module name="FrenzyAdmin.test" target="1.8" />
+      <module name="FrenzyChatColor" target="1.8" />
+      <module name="FrenzyChatColor.main" target="1.8" />
+      <module name="FrenzyChatColor.test" target="1.8" />
+      <module name="FrenzyCombat" target="1.8" />
+      <module name="FrenzyCombat.main" target="1.8" />
+      <module name="FrenzyCombat.test" target="1.8" />
+      <module name="FrenzyCommons" target="1.8" />
+      <module name="FrenzyCommons.main" target="1.8" />
+      <module name="FrenzyCommons.test" target="1.8" />
+      <module name="FrenzyCore" target="1.8" />
+      <module name="FrenzyCore.main" target="1.8" />
+      <module name="FrenzyCore.test" target="1.8" />
+      <module name="FrenzyCryptic" target="1.8" />
+      <module name="FrenzyCryptic.main" target="1.8" />
+      <module name="FrenzyCryptic.test" target="1.8" />
+      <module name="FrenzyEnchants" target="1.8" />
+      <module name="FrenzyEnchants.main" target="1.8" />
+      <module name="FrenzyEnchants.test" target="1.8" />
+      <module name="FrenzyMines" target="1.8" />
+      <module name="FrenzyMines.main" target="1.8" />
+      <module name="FrenzyMines.test" target="1.8" />
+      <module name="FrenzyPunish" target="1.8" />
+      <module name="FrenzyPunish.main" target="1.8" />
+      <module name="FrenzyPunish.test" target="1.8" />
+      <module name="FrenzyStats" target="1.8" />
+      <module name="FrenzyStats.main" target="1.8" />
+      <module name="FrenzyStats.test" target="1.8" />
+      <module name="FrenzySync" target="1.8" />
+      <module name="FrenzySync.main" target="1.8" />
+      <module name="FrenzySync.test" target="1.8" />
+      <module name="FrenzyTags" target="1.8" />
+      <module name="FrenzyTags.main" target="1.8" />
+      <module name="FrenzyTags.test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

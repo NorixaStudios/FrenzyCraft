@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="#JAVA_HOME" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/FrenzyCommons" />
+            <option value="$PROJECT_DIR$/FrenzyCore" />
+            <option value="$PROJECT_DIR$/FrenzyCore/modules/FrenzyAdmin" />
+            <option value="$PROJECT_DIR$/FrenzyCore/modules/FrenzyChatColor" />
+            <option value="$PROJECT_DIR$/FrenzyCore/modules/FrenzyCombat" />
+            <option value="$PROJECT_DIR$/FrenzyCore/modules/FrenzyCryptic" />
+            <option value="$PROJECT_DIR$/FrenzyCore/modules/FrenzyEnchants" />
+            <option value="$PROJECT_DIR$/FrenzyCore/modules/FrenzyMines" />
+            <option value="$PROJECT_DIR$/FrenzyCore/modules/FrenzyPunish" />
+            <option value="$PROJECT_DIR$/FrenzyCore/modules/FrenzyStats" />
+            <option value="$PROJECT_DIR$/FrenzyCore/modules/FrenzySync" />
+            <option value="$PROJECT_DIR$/FrenzyCore/modules/FrenzyTags" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

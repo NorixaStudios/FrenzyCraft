@@ -1,0 +1,14 @@
+rootProject.name = 'FrenzyCraft'
+
+include ':commons'
+project(':commons').projectDir = file('FrenzyCommons')
+
+include ':core'
+project(':core').projectDir = file('FrenzyCore')
+
+['FrenzyAdmin', 'FrenzyChatColor', 'FrenzyCombat', 'FrenzyCryptic',
+ 'FrenzyEnchants', 'FrenzyMines', 'FrenzyPunish', 'FrenzyStats',
+ 'FrenzySync', 'FrenzyTags'].each { moduleName ->
+    include ":core:${moduleName}"
+    project(":core:${moduleName}").projectDir = file("FrenzyCore/modules/${moduleName}")
+}
